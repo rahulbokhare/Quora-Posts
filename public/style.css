@@ -1,0 +1,20 @@
+h1{
+    color: maroon;
+    text-align: center;
+    
+}
+.post{
+    background-color: blanchedalmond;
+    border-radius: 0.7rem;
+    border: 2px solid black;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    box-shadow: 0 0 4px black;
+}
+.post:hover{
+    box-shadow: 0px 0px 8px black;
+}
+.user{
+    font-style: italic;
+    
+}
